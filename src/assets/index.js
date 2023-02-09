@@ -1,0 +1,23 @@
+import ChargingProccess from './img/svgImages/ChargingProccess.svg';
+import FinishedCharging from './img/svgImages/finishedCharging.svg';
+import MoevingLogo from './img/svgImages/moevingLogo.svg';
+import MoevingLogoSmall from './img/svgImages/moevingLogoSmall.svg';
+import QrCodeSmall from './img/svgImages/qrCodeSmall.svg';
+import Tesla from './img/svgImages/tesla.svg';
+import FbLogo from './img/svgImages/fb-logo.svg';
+import GoogleLogo from './img/svgImages/google-logo.svg';
+import ChargeSmallLogo from './img/svgImages/charge-logo-small.svg';
+import ConnectionFailedSvg from './img/svgImages/ConnectionFailed.svg';
+import SlotSvg from './img/svgImages/Slot.svg';
+
+export {ConnectionFailedSvg};
+export {SlotSvg};
+export {ChargingProccess};
+export {FinishedCharging};
+export {MoevingLogo};
+export {MoevingLogoSmall};
+export {QrCodeSmall};
+export {Tesla};
+export {FbLogo};
+export {GoogleLogo};
+export {ChargeSmallLogo};

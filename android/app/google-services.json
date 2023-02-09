@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "839772959388",
+    "project_id": "moeving-charge",
+    "storage_bucket": "moeving-charge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839772959388:android:4658967691dc4e846d3359",
+        "android_client_info": {
+          "package_name": "com.moeving_charging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839772959388-nctmtlaus3jsoquut0qcrhnabkllvuli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moeving_charging",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "839772959388-78qc4lpp8no0rgvurotrtaqia9l2lj7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHKAh5VgWg3G_GTMStr0ca1OJo4o2Wws0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839772959388-78qc4lpp8no0rgvurotrtaqia9l2lj7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

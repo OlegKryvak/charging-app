@@ -1,0 +1,80 @@
+## GIT ATTRIBUTES 
+#
+# Details per file setting:
+#   text    These files should be normalized (i.e. convert CRLF to LF).
+#   binary  These files are binary and should be left untouched.
+#
+# Note that binary is a macro for -text -diff.
+######################################################################
+
+# Auto detect
+##   Handle line endings automatically for files detected as
+##   text and leave all files detected as binary untouched.
+##   This will handle all files NOT defined below.
+*                 text=auto
+
+# Source code
+*.css             text diff=css
+*.htm             text diff=html
+*.html            text diff=html
+*.ini             text
+*.js              text
+*.json            text
+*.jsx             text
+*.styl            text
+
+# Docker
+Dockerfile        text
+
+# Documentation
+*.txt             text
+AUTHORS           text
+CHANGELOG         text
+CHANGES           text
+CONTRIBUTING      text
+COPYING           text
+copyright         text
+*COPYRIGHT*       text
+INSTALL           text
+license           text
+LICENSE           text
+NEWS              text
+readme            text
+*README*          text
+
+# Configs
+*.cnf             text
+*.conf            text
+*.config          text
+.editorconfig     text
+.env              text
+.gitattributes    text
+.gitconfig        text
+.htaccess         text
+package.json      text eol=lf
+package-lock.json text eol=lf
+.prettierrc       text
+yarn.lock         text
+*.yaml            text
+*.yml             text
+
+# Graphics
+*.jpg             binary
+*.jpeg            binary
+*.png             binary
+# SVG treated as an asset (binary) by default.
+*.svg             text
+# If you want to treat it as binary,
+# use the following line instead.
+# *.svg           binary
+*.svgz            binary
+*.tif             binary
+*.tiff            binary
+*.wbmp            binary
+*.webp            binary
+
+# Fonts
+*.ttf             binary
+
+# Ignore files (like .npmignore or .gitignore)
+*.*ignore         text

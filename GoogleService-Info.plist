@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>839772959388-5903niev2ev99tv7u49vml3rmb686782.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.839772959388-5903niev2ev99tv7u49vml3rmb686782</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>839772959388-6554vivkgca50su7f11qr7m22d0ihbqc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCdlHowjVc6U5tvoKL61DOjgTHShVKFoak</string>
+	<key>GCM_SENDER_ID</key>
+	<string>839772959388</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.moeving-charging</string>
+	<key>PROJECT_ID</key>
+	<string>moeving-charge</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moeving-charge.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:839772959388:ios:5e6e430bc04f19e86d3359</string>
+</dict>
+</plist>
